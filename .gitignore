@@ -1,0 +1,30 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML artifacts
+*.h5
+*.pt
+*.pth
+*.pkl
+
+
+# Datasets
+dataset/
+augmented_images/
+data/
+*.csv
+.venv/
+*.jpg
+*.jpeg
+
+INTERNSHIP_DAY_5/brain_tumor_dataset/
+*.zip
+*.tar.g
